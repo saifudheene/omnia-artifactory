@@ -2,10 +2,10 @@
 # Supported Servers
 
 
-Omnia v2.1 supports the following Dell PowerEdge server models as cluster
+Omnia v2.2 supports the following Dell PowerEdge server models as cluster
 nodes (OIM, Slurm, and Kubernetes). Servers are grouped by CPU architecture.
 
-## Intel-based servers
+## PowerEdge Intel servers
 
 
 | Model | CPU Generation | Form Factor | Notes |
@@ -20,7 +20,7 @@ nodes (OIM, Slurm, and Kubernetes). Servers are grouped by CPU architecture.
 | PowerEdge XR8620t | Intel 4th/5th Gen Xeon Scalable | 2U short-depth | Edge-optimized; supports GPU accelerators in edge environments. |
 | PowerEdge XR8000r | Intel 4th/5th Gen Xeon Scalable | Modular | Modular edge platform with configurable sled options. |
 
-## AMD-based servers
+## PowerEdge AMD servers
 
 
 | Model | CPU Generation | Form Factor | Notes |
@@ -32,7 +32,7 @@ nodes (OIM, Slurm, and Kubernetes). Servers are grouped by CPU architecture.
 | PowerEdge R7725 | AMD EPYC 4th Gen (Genoa) | 2U rack | Dual-socket; GPU-ready with PCIe Gen5 expansion. |
 | PowerEdge C6625 | AMD EPYC 4th Gen (Genoa) | 2U multi-node | High-density; multiple independent compute sleds per chassis. |
 
-## ARM-based servers (Grace CPU)
+## PowerEdge NVIDIA Grace CPU servers
 
 
 | Model | CPU | Form Factor | Notes |
