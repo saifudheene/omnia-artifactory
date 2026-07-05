@@ -2,7 +2,7 @@
 # Supported Operating Systems
 
 
-Omnia v2.1 requires RHEL 10.0 on both the OIM (management node) and
+Omnia v2.2 requires RHEL 10.0 on both the OIM (management node) and
 cluster nodes. This page documents the supported OS versions and installation
 profiles.
 
